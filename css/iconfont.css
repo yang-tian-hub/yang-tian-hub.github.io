@@ -19,17 +19,21 @@
 
 .icon-qqmusic-fill-round:before {
   content: "\e68d";
+  font-size: 19px;
 }
 
 .icon-shejiaotubiao-10:before {
   content: "\e641";
+  font-size: 19px;
 }
 
 .icon-bilibili-line:before {
   content: "\e66d";
+  font-size: 19px;
 }
 
 .icon-gitee2:before {
   content: "\e677";
+  font-size: 19px;
 }
 
